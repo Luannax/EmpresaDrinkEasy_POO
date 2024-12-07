@@ -27,8 +27,10 @@ Este projeto foi desenvolvido em Python para a disciplina de **Programação Ori
 ## 📂 Estrutura do Projeto
 
 ```plaintext
-├── menu.py           # Arquivo principal com todas as funcionalidades do sistema
-└── README.md         # Documentação do projeto
+├── menu.py                               # Arquivo principal com todas as funcionalidades do sistema
+├── Slides POO - EMPRESA DRINKEASY.pdf    # Apresentação do projeto
+├── LICENSE                               # Licença do projeto
+└── README.md                             # Documentação do projeto
 ```
 
 ### Como adicionar ao GitHub:
